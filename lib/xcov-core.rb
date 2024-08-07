@@ -1,5 +1,5 @@
 require 'xcov-core/version'
-require 'xcov'
+require 'xcov-lw/'
 require 'json'
 require 'fileutils'
 require 'tempfile'
