@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "xcov/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "xcov"
+  spec.name          = "xcov-lw"
   spec.version       = Xcov::VERSION
   spec.authors       = ["Carlos Vidal"]
   spec.email         = ["nakioparkour@gmail.com"]
